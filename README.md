@@ -5,3 +5,7 @@ This project demonstrates fraud detection in credit card transactions using unsu
 [![E-Commerce Recommender: Dataset](https://img.youtube.com/vi/Fbx0uA729HA/0.jpg)](https://youtu.be/Fbx0uA729HA)
 
 [E-Commerce Recommender: Dataset](https://youtu.be/Fbx0uA729HA)
+
+[![E-Commerce Recommender: Data Visualization & Evaluation](https://img.youtube.com/vi/QzRtktw3PrU/0.jpg)](https://youtu.be/QzRtktw3PrU)
+
+[E-Commerce Recommender: Data Visualization & Evaluation](https://youtu.be/QzRtktw3PrU)
